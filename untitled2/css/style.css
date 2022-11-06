@@ -1,0 +1,35 @@
+.button{
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: 20px auto 10px;
+
+}
+a{
+    color: aliceblue;
+    font-size: 25px;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.line{
+    background: radial-gradient(#dbdbd9, #fcfcfa);
+    height: 1px;
+    margin-top: 50px;
+}
+.button:hover{
+    background-color: darkblue;
+}
+img{
+    margin-top: 15px;
+    margin-left: 110px;
+    width: 250px;
+    height: 125px;
+    border-radius: 20px;
+}
